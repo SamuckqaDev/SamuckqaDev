@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m study JavaSacript;
+- 🌱 I’m study JavaScript;
 - 📫 How to reach me: samuel.tomimatu@bandtec.com.br;
 - 😄 Pronouns: he/his;
 
