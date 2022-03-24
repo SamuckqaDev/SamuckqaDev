@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m study JavaScript;
+- 🌱 I’m study JavaScript and Java  .-. ;
 - 📫 How to reach me: samuel.tomimatu@bandtec.com.br;
 - 😄 Pronouns: he/his;
 - Tomimatu is Tomimatsu = 富松;
