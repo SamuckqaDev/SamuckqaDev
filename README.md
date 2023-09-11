@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m study JavaScript and Java  .-. ;
-- 📫 How to reach me: samuel.tomimatu@bandtec.com.br;
+- 📫 How to reach me: dev.matsutech@gmail.com;
 - 😄 Pronouns: he/his;
 - Tomimatu is Tomimatsu = 富松;
 
