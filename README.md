@@ -10,11 +10,6 @@
 
 
 ## I'am Samuel Tomimatu !
-<div align="center">
-  <a href="https://github.com/samuckqadev">
-  <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=samuckqadev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-  
-</div>
 </br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuckqa-Js" height="30" width="40" color src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
